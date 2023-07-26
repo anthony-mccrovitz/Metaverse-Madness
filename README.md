@@ -25,55 +25,38 @@ These instructions will get you a copy of the project up and running on your loc
 Make sure you have Node.js and npm installed.
 
 1. Check for Node.js:
-\`\`\`
+`\`\`
 node -v
-\`\`\`
+`\`\`
 2. Check for npm:
-\`\`\`
+`\`\`
 npm -v
-\`\`\`
+`\`\`
 3. Install Next.js globally:
-\`\`\`
+`\`\`
 npm install -g create-next-app
-\`\`\`
+`\`\`
 
 ### Installation
 
 1. Clone the repo:
-\`\`\`
+`\`\`
 git clone https://github.com/your_username_/MetaverseMadness.git
-\`\`\`
+`\`\`
 2. Install NPM packages:
-\`\`\`
+`\`\`
 npm install
-\`\`\`
+`\`\`
 3. Run the development server:
-\`\`\`
+`\`\`
 npm run dev
-\`\`\`
+`\`\`
 Now the app should be up and running at http://localhost:3000!
-
-## Testing
-
-Run the tests with jest and react testing library:
-\`\`\`
-npm run test
-\`\`\`
 
 ## Built With
 
 * [Next.js](https://nextjs.org/) - The React Framework
 * [Framer Motion](https://www.framer.com/api/motion/) - Animation Library for React
-
-## Contributing
-
-We welcome contributions from the community. To contribute:
-
-1. Fork the project
-2. Create your feature branch (\`git checkout -b feature/AmazingFeature\`)
-3. Commit your changes (\`git commit -m 'Add some AmazingFeature'\`)
-4. Push to the branch (\`git push origin feature/AmazingFeature\`)
-5. Open a Pull Request
 
 ## License
 
