@@ -71,9 +71,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - your_email@example.com
+Anthony McCrovitz - anthonymccrovitz02@gmail.com
 
-Project Link: [https://github.com/your_username_/MetaverseMadness](https://github.com/your_username_/MetaverseMadness)
+Project Link: [https://github.com/anthony-mccrovitz/MetaverseMadness](https://github.com/your_username_/MetaverseMadness)
 
 ## Acknowledgements
 
